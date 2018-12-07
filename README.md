@@ -10,6 +10,7 @@
 ### 가령, 기계 학습을 통해서 수신한 이메일이 스팸인지 아닌지를 구분할 수 있도록 훈련할 수 있다.
 ### (https://ko.wikipedia.org/wiki/%EA%B8%B0%EA%B3%84_%ED%95%99%EC%8A%B5)
 
+
 ## 텐서플로우(TensorFlow)란?
 ![150px-tensorflowlogo](https://user-images.githubusercontent.com/39981622/49634216-6342b580-fa3f-11e8-96d8-b5d9545ae8ed.jpg)
  ### 텐서플로(TensorFlow)는 다양한 작업에대해 데이터 흐름 프로그래밍을 위한 오픈소스 소프트웨어 라이브러리이다. 
